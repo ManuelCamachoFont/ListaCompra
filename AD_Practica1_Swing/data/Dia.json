@@ -1,0 +1,27 @@
+[
+  {
+    "descripcion": "Café molido",
+    "unidad": "U",
+    "cantidad": 2
+  },
+  {
+    "descripcion": "Galletas María",
+    "unidad": "U",
+    "cantidad": 3
+  },
+  {
+    "descripcion": "Zumo de naranja",
+    "unidad": "L",
+    "cantidad": 2
+  },
+  {
+    "descripcion": "Manzanas",
+    "unidad": "Kg",
+    "cantidad": 1.5
+  },
+  {
+    "descripcion": "Papel de cocina",
+    "unidad": "U",
+    "cantidad": 1
+  }
+]
